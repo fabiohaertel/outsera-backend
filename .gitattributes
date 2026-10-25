@@ -1,0 +1,2 @@
+# Keeps BOM + CRLF intact: the fixture exercises those encodings on purpose.
+tests/fixtures/name-formats.csv -text
